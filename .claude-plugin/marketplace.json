@@ -1,0 +1,16 @@
+{
+  "name": "clawd-pet",
+  "owner": {
+    "name": "Sai Rudra"
+  },
+  "metadata": {
+    "description": "Clawd as a pet above the prompt: turns that finish without a failed tool call feed it, failed calls make it sick, long sessions make it sleepy. Kept across sessions. /clawd-pet shows or hides it; /clawd-pet status."
+  },
+  "plugins": [
+    {
+      "name": "clawd-pet",
+      "source": "./",
+      "description": "Clawd as a pet above the prompt: turns that finish without a failed tool call feed it, failed calls make it sick, long sessions make it sleepy. Kept across sessions. /clawd-pet shows or hides it; /clawd-pet status."
+    }
+  ]
+}

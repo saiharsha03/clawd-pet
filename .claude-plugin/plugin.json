@@ -1,0 +1,13 @@
+{
+  "name": "clawd-pet",
+  "version": "0.1.0",
+  "author": {
+    "name": "Sai Rudra"
+  },
+  "description": "Clawd as a pet above the prompt: turns that finish without a failed tool call feed it, failed calls make it sick, long sessions make it sleepy. Kept across sessions. /clawd-pet shows or hides it; /clawd-pet status.",
+  "types": "./types/index.d.ts",
+  "displayName": "Clawd Pet",
+  "homepage": "https://github.com/saiharsha03/clawd-pet",
+  "repository": "https://github.com/saiharsha03/clawd-pet",
+  "license": "MIT"
+}
